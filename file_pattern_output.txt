@@ -1,0 +1,62 @@
+TKE_Week_5_Flume_1b = importdata ('TKE_Week_5_Flume_1b.csv');
+TKE_Week_5_Flume_2b = importdata ('TKE_Week_5_Flume_2b.csv');
+TKE_Week_5_Flume_3b = importdata ('TKE_Week_5_Flume_3b.csv');
+TKE_Week_5_Flume_4b = importdata ('TKE_Week_5_Flume_4b.csv');
+TKE_Week_5_Flume_5b = importdata ('TKE_Week_5_Flume_5b.csv');
+
+RS_Week_1_Flume_5b = importdata ('RS_Week_1_Flume_5b.csv');
+RS_Week_1_Flume_6b = importdata ('RS_Week_1_Flume_6b.csv');
+RS_Week_1_Flume_7b = importdata ('RS_Week_1_Flume_7b.csv');
+RS_Week_1_Flume_8b = importdata ('RS_Week_1_Flume_8b.csv');
+RS_Week_1_Flume_9b = importdata ('RS_Week_1_Flume_9b.csv');
+RS_Week_1_Flume_10b = importdata ('RS_Week_1_Flume_10b.csv');
+
+TEP_Week_1_Flume_10b = importdata ('TEP_Week_1_Flume_10b.csv');
+TEP_Week_1_Flume_11b = importdata ('TEP_Week_1_Flume_11b.csv');
+TEP_Week_1_Flume_12b = importdata ('TEP_Week_1_Flume_12b.csv');
+TEP_Week_1_Flume_13b = importdata ('TEP_Week_1_Flume_13b.csv');
+TEP_Week_1_Flume_14b = importdata ('TEP_Week_1_Flume_14b.csv');
+TEP_Week_1_Flume_15b = importdata ('TEP_Week_1_Flume_15b.csv');
+
+TIU_Week_1_Flume_15b = importdata ('TIU_Week_1_Flume_15b.csv');
+TIU_Week_1_Flume_16b = importdata ('TIU_Week_1_Flume_16b.csv');
+TIU_Week_1_Flume_17b = importdata ('TIU_Week_1_Flume_17b.csv');
+TIU_Week_1_Flume_18b = importdata ('TIU_Week_1_Flume_18b.csv');
+TIU_Week_1_Flume_19b = importdata ('TIU_Week_1_Flume_19b.csv');
+TIU_Week_1_Flume_20b = importdata ('TIU_Week_1_Flume_20b.csv');
+
+TIV_Week_1_Flume_20b = importdata ('TIV_Week_1_Flume_20b.csv');
+TIV_Week_1_Flume_21b = importdata ('TIV_Week_1_Flume_21b.csv');
+TIV_Week_1_Flume_22b = importdata ('TIV_Week_1_Flume_22b.csv');
+TIV_Week_1_Flume_23b = importdata ('TIV_Week_1_Flume_23b.csv');
+TIV_Week_1_Flume_24b = importdata ('TIV_Week_1_Flume_24b.csv');
+TIV_Week_1_Flume_25b = importdata ('TIV_Week_1_Flume_25b.csv');
+
+TKE_Week_1_Flume_25b = importdata ('TKE_Week_1_Flume_25b.csv');
+TKE_Week_1_Flume_26b = importdata ('TKE_Week_1_Flume_26b.csv');
+TKE_Week_1_Flume_27b = importdata ('TKE_Week_1_Flume_27b.csv');
+TKE_Week_1_Flume_28b = importdata ('TKE_Week_1_Flume_28b.csv');
+TKE_Week_1_Flume_29b = importdata ('TKE_Week_1_Flume_29b.csv');
+TKE_Week_1_Flume_30b = importdata ('TKE_Week_1_Flume_30b.csv');
+
+urms_Week_1_Flume_30b = = importdata ('urms_Week_1_Flume_30b.csv');
+urms_Week_1_Flume_31b = = importdata ('urms_Week_1_Flume_31b.csv');
+urms_Week_1_Flume_32b = = importdata ('urms_Week_1_Flume_32b.csv');
+urms_Week_1_Flume_33b = = importdata ('urms_Week_1_Flume_33b.csv');
+urms_Week_1_Flume_34b = = importdata ('urms_Week_1_Flume_34b.csv');
+urms_Week_1_Flume_35b = = importdata ('urms_Week_1_Flume_35b.csv');
+
+VM_Week_1_Flume_35b = importdata ('VM_Week_1_Flume_35b.csv');
+VM_Week_1_Flume_36b = importdata ('VM_Week_1_Flume_36b.csv');
+VM_Week_1_Flume_37b = importdata ('VM_Week_1_Flume_37b.csv');
+VM_Week_1_Flume_38b = importdata ('VM_Week_1_Flume_38b.csv');
+VM_Week_1_Flume_39b = importdata ('VM_Week_1_Flume_39b.csv');
+VM_Week_1_Flume_40b = importdata ('VM_Week_1_Flume_40b.csv');
+
+vrms_Week_1_Flume_40b = importdata ('vrms_Week_1_Flume_40b.csv');
+vrms_Week_1_Flume_41b = importdata ('vrms_Week_1_Flume_41b.csv');
+vrms_Week_1_Flume_42b = importdata ('vrms_Week_1_Flume_42b.csv');
+vrms_Week_1_Flume_43b = importdata ('vrms_Week_1_Flume_43b.csv');
+vrms_Week_1_Flume_44b = importdata ('vrms_Week_1_Flume_44b.csv');
+vrms_Week_1_Flume_45b = importdata ('vrms_Week_1_Flume_45b.csv');
+

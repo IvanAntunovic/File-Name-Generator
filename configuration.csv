@@ -1,0 +1,9 @@
+TKE_Week_5_Flume_#b = importdata ('TKE_Week_5_Flume_#b.csv');,1,5
+RS_Week_1_Flume_#b = importdata ('RS_Week_1_Flume_#b.csv');,5,10
+TEP_Week_1_Flume_#b = importdata ('TEP_Week_1_Flume_#b.csv');,10,15
+TIU_Week_1_Flume_#b = importdata ('TIU_Week_1_Flume_#b.csv');,15,20
+TIV_Week_1_Flume_#b = importdata ('TIV_Week_1_Flume_#b.csv');,20,25
+TKE_Week_1_Flume_#b = importdata ('TKE_Week_1_Flume_#b.csv');,25,30
+urms_Week_1_Flume_#b = = importdata ('urms_Week_1_Flume_#b.csv');,30,35
+VM_Week_1_Flume_#b = importdata ('VM_Week_1_Flume_#b.csv');,35,40
+vrms_Week_1_Flume_#b = importdata ('vrms_Week_1_Flume_#b.csv');,40,45

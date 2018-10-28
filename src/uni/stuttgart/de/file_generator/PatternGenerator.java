@@ -2,14 +2,14 @@ package uni.stuttgart.de.file_generator;
 
 import java.io.IOException;
 
-import uni.sttuttgart.de.pattern_configuration.InputConfiguration;
+import uni.sttuttgart.de.pattern_configuration.Configuration;
 
 public class PatternGenerator {
 	
 	private static final String NEW_LINE_SEPERATOR = System.lineSeparator();
 	private static final String PATTERN_SPECIAL_CHARACTER = "#";
 	
-	public static String generate(InputConfiguration inputConfiguration) throws IOException {
+	public static String generate(Configuration inputConfiguration) throws IOException {
 								
 		StringBuilder pattern = new StringBuilder();
 

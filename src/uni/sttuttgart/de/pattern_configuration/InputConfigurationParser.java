@@ -13,10 +13,10 @@ public class InputConfigurationParser {
 	private static final String CONFIGURATION_SEPARATOR = ",";
 	private static final int CONFIGURATION_PATTERN_LINE_MAX_SIZE = 3;
 	
-	public static List<InputConfiguration> parse(File configurationFile) throws IOException {
+	public static List<Configuration> parse(File configurationFile) throws IOException {
 		
 		 BufferedReader configurationReader = new BufferedReader (new FileReader(configurationFile) ); 
-		 List<InputConfiguration> inputConfigurationList = new ArrayList<InputConfiguration>();
+		 List<Configuration> inputConfigurationList = new ArrayList<Configuration>();
 		 
 		 String configuration; 
 		 String[] configurationParams;

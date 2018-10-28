@@ -24,14 +24,13 @@ public class Main {
 		System.out.println("File generation tool! Use '#' character in the 'configuration.csv' file to specify variable character.");
 
 		try {
-			testInputConfigurationParser(System.getProperty("user.dir") + "\\" + CONFIGURATION_FILE_NAME);
+			startApplication(System.getProperty("user.dir") + "\\" + CONFIGURATION_FILE_NAME);
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 	}
 
-	private static void testInputConfigurationParser(final String configurationFileName) throws IOException {
+	private static void startApplication(final String configurationFileName) throws IOException {
 		
 		if( !Files.exists(Paths.get(configurationFileName)) ) { 
 		    System.out.println("There is no configuration file in the current folder!\nYou need to put configuration.csv file first in order to use this application!");
